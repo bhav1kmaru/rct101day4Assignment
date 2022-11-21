@@ -4,7 +4,7 @@
 Props are the properties which are passed to an element. for example: id,class,content,styles,etc.
 State is the current state or the value of an element.
 
-#Explain the useState API
+# Explain the useState API
 an element and a dispatcher function is passed to React.useState for maintaining the state of an element.
 example: const [amount,setAmount]=React.useState(0) 
 
